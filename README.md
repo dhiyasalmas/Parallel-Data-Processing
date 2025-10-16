@@ -1,2 +1,2 @@
-# -Parallel-Data-Processing
+# Parallel-Data-Processing
 Repository for class Network and Parallel Data Processing
